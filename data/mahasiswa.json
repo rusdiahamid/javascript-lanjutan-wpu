@@ -1,0 +1,23 @@
+[
+  {
+    "nama": "Rusdia Hamid",
+    "nrp": "12181330",
+    "email": "rusdia.hamid@gmail.com",
+    "jurusan": "Sistem Informasi",
+    "idDosenWali": "1"
+  },
+  {
+    "nama": "Sandhika Galih",
+    "nrp": 12181230,
+    "email": "sandhikagalih@gmail.com",
+    "jurusan": "Teknik Informatika",
+    "idDosenWali": "1"
+  },
+  {
+    "nama": "Doddy",
+    "nrp": 12181331,
+    "email": "doddy@gmail.com",
+    "jurusan": "Sistem Informasi",
+    "idDosenWali": "2"
+  }
+]
